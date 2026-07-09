@@ -41,13 +41,6 @@ This dashboard answers questions like:
 
 ---
 
-# 📂 Dashboard Preview
-
-> **📷 Dashboard Screenshot**
-
-<p align="center">
-  <img src="images/dashboard.png" alt="Dashboard Preview" width="100%">
-</p>
 
 ---
 
